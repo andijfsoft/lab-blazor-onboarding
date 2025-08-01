@@ -1,6 +1,7 @@
 # 🗃️ Phase 3: EF Core & Identity Framework Basics
 
 ## ✅ Objectives
+
 Learn to use Entity Framework Core for data access and ASP.NET Core Identity for authentication and user management in a Blazor Server app.
 
 ---

@@ -165,7 +165,6 @@ public partial class Login
 > `Login.razor.cs`
 
 ```razor
-@code-behind
 <h3>Login</h3>
 <input @bind="Email" />
 ```
